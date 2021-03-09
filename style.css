@@ -78,7 +78,7 @@ body {
     height: 100%;
     width: 50%;
 }
-.header__title div{
+.header__title h1{
     font-size: 30px;
     color: #fff;
 
@@ -100,7 +100,7 @@ body {
     margin: 50px;
 
 }
-h3 {
+h3  {
     font-size: 25px;
 }
 article {
